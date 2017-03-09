@@ -17,3 +17,7 @@ It's recomended your `.app` have a GUI if you want to interact with a user (sinc
 ### Go
 Download an [icon](http://ionicons.com/#quote) to use.
 
+# License
+
+Molmc Inc (robertzhouxh@gmail.com)
+
