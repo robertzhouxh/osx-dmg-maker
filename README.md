@@ -1,21 +1,19 @@
-## Icon formats:
+# 简介
 
-The image file can be `.svg` (recomended), `.png`, `.gif`, `.jpg`, or `.tiff` format.
+这是一个可以在命令行执行的脚本， copy icon， 可执行文件到到项目根目录， 然后执行
 
-## Free SVG Icons
+## Icon 格式
+
+- `.svg` (recomended)
+- `.png`,
+- `.gif`, 
+- `.jpg`, 
+- `.tiff`
+
+## 下载 SVG Icons
 
 - http://fontawesome.io/
 - http://ionicons.com/
-
-## GUI
-It's recomended your `.app` have a GUI if you want to interact with a user (since the terminal is not shown).
-
-- [Go](http://awesome-go.com/#gui)
-- [Rust](https://github.com/kud1ing/awesome-rust#gui)
-- [C++](https://github.com/fffaraz/awesome-cpp#gui)
-
-### Go
-Download an [icon](http://ionicons.com/#quote) to use.
 
 # License
 
